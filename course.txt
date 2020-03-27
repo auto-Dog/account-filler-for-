@@ -1,0 +1,7 @@
+2020/3/27#date_of_last_change
+No.(start from 0) name weeknum(0-7,Sun-Sat) start_hour end_hour comments account password 
+example:
+05 Calculus_ii 01 08 09 none 012345 543210
+
+!!different items HAVE TO BE SEPERATED WITH BLANK SPACE!!
+ okay, just delete everything above and start to use. 
